@@ -1,0 +1,4 @@
+[submodule "edm"]
+	path = edm
+	url = https://github.com/NVlabs/edm.git
+	hexsha = 62072d2612c7da05165d6233d13d17d71f213fee
